@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waveing&color=auto&height=200&section=header&text=Rero0124&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Rero0124&fontSize=60&rotate=10&desc=Kim,%20Seunghun&descAlignY=40&fontAlignY=20)
 
 <a> </a>
 
@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](./profile-3d-contrib/profile-green-animate.svg)
