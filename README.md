@@ -15,24 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<table style="margin: auto">
-  <tr valign="top">
-    <td>
-      <a href="https://solved.ac/seunghun/">
-          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seunghun" height="100%"> 
-      </a>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rero0124&layout=compact&theme=tokyonight">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=rero0124&show_icons=true&theme=tokyonight">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr valign="top">
+      <td>
+        <a href="https://solved.ac/seunghun/">
+            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seunghun" height="100%"> 
+        </a>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rero0124&layout=compact&theme=tokyonight">
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=rero0124&show_icons=true&theme=tokyonight">
+      </td>
+    </tr>
+  </table>
+<div>
 
 <br><br>
 
