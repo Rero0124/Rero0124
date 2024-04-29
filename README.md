@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     </td>
   </tr>
   <tr>
-    <td rolspan="2">
+    <td colspan="2">
       <div align="center">
         <a href="https://solved.ac/seunghun/">
           <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seunghun" height="100%"> 
