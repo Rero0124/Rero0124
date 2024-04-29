@@ -19,13 +19,19 @@ Here are some ideas to get you started:
 
 <table>
   <tr valign="top">
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thundevistan&layout=compact&theme=tokyonight"></td>
-    <td rowspan="2">[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seunghun)](https://solved.ac/seunghun/)</td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thundevistan&layout=compact&theme=tokyonight">
+    </td>
+    <td rowspan="2">
+      [<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seunghun">](https://solved.ac/seunghun/)>
+    </td>
   </tr>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=thundevistan&show_icons=true&theme=tokyonight"></td>
   </tr>
 </table>
+
+<br><br>
 
 
 
