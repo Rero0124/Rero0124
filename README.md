@@ -17,10 +17,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thundevistan&layout=compact&theme=tokyonight">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seunghun)](https://solved.ac/seunghun/)
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=thundevistan&show_icons=true&theme=tokyonight">
+<table>
+  <tr valign="top">
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thundevistan&layout=compact&theme=tokyonight"></td>
+    <td rowspan="2">[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seunghun)](https://solved.ac/seunghun/)</td>
+  </tr>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=thundevistan&show_icons=true&theme=tokyonight"></td>
+  </tr>
+</table>
+
 
 
 
