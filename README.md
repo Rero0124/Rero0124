@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<table>
+<table width="100%">
   <tr valign="top">
     <td>
       <a href="https://solved.ac/seunghun/">
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td colspan="2" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=rero0124&show_icons=true&theme=tokyonight">
     </td>
   </tr>
