@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thundevistan)](https://solved.ac/seunghun/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seunghun)](https://solved.ac/seunghun/)
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
