@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <table>
+<div align="center" style="width: 100%">
+  <table style="width: 100%">
     <tr valign="top">
       <td>
         <a href="https://solved.ac/seunghun/">
