@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Rero0124&fontSize=55&rotate=10&desc=Kim,%20Seunghun&descAlignY=40&fontAlignY=25)
 
-<a> </a>
-
 <!--
 **Rero0124/Rero0124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,7 +22,9 @@ Here are some ideas to get you started:
     </td>
     <td rowspan="2">
       <div align="center">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seunghun" height="100%">(https://solved.ac/seunghun/)
+        <a href="https://solved.ac/seunghun/">
+          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seunghun" height="100%"> 
+        </a>
       </div>
     </td>
   </tr>
