@@ -15,11 +15,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thundevistan)](https://solved.ac/thundevistan/)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thundevistan&layout=compact&theme=tokyonight"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=thundevistan&show_icons=true&theme=tokyonight">
+<table>
+  <tr valign="top">
+    <td>
+      <a href="https://solved.ac/seunghun/">
+          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seunghun" height="100%"> 
+      </a>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rero0124&layout=compact&theme=tokyonight">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api?username=rero0124&show_icons=true&theme=tokyonight">
+    </td>
+  </tr>
+</table>
 
 <br><br>
+
+
+
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
