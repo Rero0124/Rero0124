@@ -1,11 +1,3 @@
-<head>
-  <style>
-    table {
-        width: 100%;
-    }
-  </style>
-</head>
-
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Rero0124&fontSize=55&rotate=10&desc=Kim,%20Seunghun&descAlignY=40&fontAlignY=25)
 
 <!--
@@ -23,24 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <table>
-    <tr valign="top">
-      <td>
-        <a href="https://solved.ac/seunghun/">
-            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seunghun" height="100%"> 
-        </a>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rero0124&layout=compact&theme=tokyonight">
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=rero0124&show_icons=true&theme=tokyonight">
-      </td>
-    </tr>
-  </table>
-<div>
+<a href="https://solved.ac/seunghun/">
+    <img width="220" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seunghun" height="100%"> 
+</a>
+<img width="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rero0124&layout=compact&theme=tokyonight"><br><br>
+<img width="441" src="https://github-readme-stats.vercel.app/api?username=rero0124&show_icons=true&theme=tokyonight">
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
