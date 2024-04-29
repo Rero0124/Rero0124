@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://solved.ac/seunghun/">
-    <img width="220" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seunghun" height="100%"> 
+    <img width="220" height="1" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seunghun" height="100%"> 
 </a>
-<img width="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rero0124&layout=compact&theme=tokyonight"><br><br>
-<img width="441" src="https://github-readme-stats.vercel.app/api?username=rero0124&show_icons=true&theme=tokyonight">
+<img width="220" height="1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rero0124&layout=compact&theme=tokyonight"><br><br>
+<img width="441" height="1" src="https://github-readme-stats.vercel.app/api?username=rero0124&show_icons=true&theme=tokyonight">
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
