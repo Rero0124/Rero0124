@@ -1,9 +1,10 @@
-<style>
-    div, form {
+<head>
+  <style>
+    table {
         width: 100%;
     }
-</style>
-
+  </style>
+</head>
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Rero0124&fontSize=55&rotate=10&desc=Kim,%20Seunghun&descAlignY=40&fontAlignY=25)
 
 <!--
