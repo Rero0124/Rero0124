@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center" style="width: 100%">
-  <table style="width: 100%">
+<div align="center">
+  <table>
     <tr valign="top">
       <td>
         <a href="https://solved.ac/seunghun/">
@@ -40,10 +40,5 @@ Here are some ideas to get you started:
     </tr>
   </table>
 <div>
-
-<br><br>
-
-
-
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
