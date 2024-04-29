@@ -20,16 +20,18 @@ Here are some ideas to get you started:
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thundevistan&layout=compact&theme=tokyonight">
     </td>
-    <td rowspan="2">
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=thundevistan&show_icons=true&theme=tokyonight">
+    </td>
+  </tr>
+  <tr>
+    <td rolspan="2">
       <div align="center">
         <a href="https://solved.ac/seunghun/">
           <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seunghun" height="100%"> 
         </a>
       </div>
     </td>
-  </tr>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=thundevistan&show_icons=true&theme=tokyonight"></td>
   </tr>
 </table>
 
