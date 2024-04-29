@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<table width="100%">
+<table style="margin: auto">
   <tr valign="top">
     <td>
       <a href="https://solved.ac/seunghun/">
