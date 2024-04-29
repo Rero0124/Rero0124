@@ -23,7 +23,9 @@ Here are some ideas to get you started:
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thundevistan&layout=compact&theme=tokyonight">
     </td>
     <td rowspan="2">
-      [![boj profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seunghun")](https://solved.ac/seunghun/)
+      <div>
+        [![boj profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seunghun")](https://solved.ac/seunghun/)
+      </div>
     </td>
   </tr>
   <tr>
