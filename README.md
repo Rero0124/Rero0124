@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     </td>
     <td rowspan="2">
       <div>
-        ![boj profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seunghun")(https://solved.ac/seunghun/)
+        ![boj profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seunghun)(https://solved.ac/seunghun/)
       </div>
     </td>
   </tr>
