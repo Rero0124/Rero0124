@@ -15,7 +15,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: profile-3d-contrib/conf/season.json
       - name: Commit & Push
         run: |
           git config user.name "Rero0124"
