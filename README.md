@@ -15,10 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://solved.ac/seunghun/">
-    <img width="220" height="1" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seunghun" height="100%"> 
-</a>
-<img width="220" height="1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rero0124&layout=compact&theme=tokyonight"><br><br>
-<img width="441" height="1" src="https://github-readme-stats.vercel.app/api?username=rero0124&show_icons=true&theme=tokyonight">
+<div align="center">
+  <table>
+    <tr valign="top">
+      <td>
+        <a href="https://solved.ac/seunghun/">
+            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seunghun" height="100%"> 
+        </a>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rero0124&layout=compact&theme=tokyonight">
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=rero0124&show_icons=true&theme=tokyonight">
+      </td>
+    </tr>
+  </table>
+<div>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
