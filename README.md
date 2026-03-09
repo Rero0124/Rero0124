@@ -19,8 +19,6 @@
 <br>
 
 [![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=seunghun)](https://solved.ac/seunghun)
-&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rero0124&layout=compact&theme=tokyonight&hide_border=true)
 
 <br>
 
