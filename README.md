@@ -1,36 +1,29 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Rero0124&fontSize=55&rotate=10&desc=Kim,%20Seunghun&descAlignY=40&fontAlignY=25)
-
-<!--
-**Rero0124/Rero0124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
-  <table>
-    <tr valign="top">
-      <td>
-        <a href="https://solved.ac/seunghun/">
-            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seunghun" height="100%"> 
-        </a>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rero0124&layout=compact&theme=tokyonight">
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=rero0124&show_icons=true&theme=tokyonight">
-      </td>
-    </tr>
-  </table>
-<div>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+# Kim Seunghun
+
+**Full-Stack Developer** · TypeScript / Java / Rust
+
+<br>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+<br>
+
+[![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=seunghun)](https://solved.ac/seunghun)
+&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rero0124&layout=compact&theme=tokyonight&hide_border=true)
+
+<br>
+
+![profile-3d](./profile-3d-contrib/profile-green-animate.svg)
+
+</div>
