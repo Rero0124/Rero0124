@@ -18,9 +18,12 @@
 
 <br>
 
+<!--
+
 [![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=seunghun)](https://solved.ac/seunghun)
 
 <br>
+-->
 
 ![profile-3d](./profile-3d-contrib/profile-green-animate.svg)
 
