@@ -2,7 +2,7 @@
 
 # Kim Seunghun
 
-**Full-Stack Developer** · TypeScript / Java / Rust
+**Systems architect & Full-Stack Developer** · TypeScript / Java / Rust
 
 <br>
 
