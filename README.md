@@ -32,6 +32,11 @@ Lately that means building AI-native — LLM features inside the product, coding
 - **[connecting](https://github.com/Rero0124/connecting)** · Next.js · WebRTC — Discord-style voice & screen-share messenger on a self-built mediasoup SFU.
 - **[zet](https://github.com/Rero0124/zet-server)** · Rust · Next.js 16 · Tauri — an ad-first social platform for discovering product trends.
 
+### Infrastructure
+
+- **Proxmox VE + Backup Server** — I run production VMs and services on-prem with daily backups, and I'm working toward multi-node redundancy.
+- **AWS + Cloudflare** — my own products run on EC2, with Cloudflare for DNS, tunnels, and email.
+
 ### Contact
 
 📫 [rero0124@icloud.com](mailto:rero0124@icloud.com) · [LinkedIn](https://www.linkedin.com/in/seunghun-kim-721a97308/) · [X @rero0124](https://x.com/rero0124)
